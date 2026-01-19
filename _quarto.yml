@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Advancing data science for better decisions in healthcare and society"
+  sidebar:
+    title: Nazmus Salehin
+    contents:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - href: talks.qmd
+        text: Talks
+        icon: megaphone
+      - href: publications/index.qmd
+        text: Selected publications
+      - href: blog/index.qmd
+        text: Blogs
+
+format:
+  html:
+    backgroundcolor: "#f8f9fa"
+    fontcolor: "black"
+    linkcolor: "darkgreen"
+    mainfont: "sarif"
+    fontsize: 18px
+    theme: [cosmo, styles.scss]
+

@@ -1,0 +1,11 @@
+---
+title: "Application of Linear Algebra in data analysis"
+description: "Post description for first post"
+author: "Nazmus Salehin"
+date: "2026-01-19"
+image: "cover.jpg"
+categories:
+  - Linear Algebra
+  - Python
+---
+

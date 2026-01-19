@@ -1,0 +1,30 @@
+---
+title: "Nazmus Salehin"
+subtitle: "Statistical Programmer/Data Scientist"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+---
+
+I am an aspiring data scientist passionate about leveraging data, statistics, and machine learning to generate meaningful insights and solve complex societal problems. I aim to build predictive models and analytical tools that improve decision-making in social science and healthcare, and to develop methodologies that help detect and mitigate disinformation, bias, and harmful narratives in online news and social media ecosystems.
+
+## Education
+
+MS in Mathematical Science, University of North Florida \| Jacksonville, Florida \| Aug 2019-June 2021
+
+BS in Electrical and Electronic Engineering, Khulna University of Engineering and Technology \| Khulna, Bangladesh \| Feb 2012-June 2017
+
+## Experience
+
+Fred Hutch Cancer Center \| Statistical Programmer 2 \| Aug 2023 - present
+
+Duke University \| Statistician 2 \| Aug 2021 - July 2023

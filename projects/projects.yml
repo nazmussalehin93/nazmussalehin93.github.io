@@ -1,0 +1,35 @@
+- title: Building a tic tac toe AI with value iteration
+  path: https://github.com/Sal4321/tictactoe
+  # Photo by Breno Assis on Unsplash https://unsplash.com/photos/aerial-photography-of-rural-r3WAWU5Fi5Q
+  image: images/tictactoe.png
+  description: >
+    A Python implementation of Tic Tac Toe featuring an AI opponent powered by value iteration, a reinforcement learning algorithm.
+    The computer learns to evaluate board states and make optimal moves based on state values
+  categories: [Python, Reinforcement Learning, Bellman equation]
+  date: 2025-10-11
+
+- title: Survival-Predicition-using-Autoencoder-and-AFT
+  path: https://github.com/Sal4321/Survival-Predicition-using-Autoencoder-and-AFT-
+  # Photo by Adrien Delforge on Unsplash  https://unsplash.com/photos/man-in-black-long-sleeve-shirt-and-black-pants-standing-on-shopping-cart-CrHG_ZYn1Dw
+  image: images/autoencoder.png
+  description: >
+    The goal of this project is to predict survival times of patients using gene
+    expression features and clinical features. We will see if the gene expression features has any
+    significance in predicting overall survival. For the 1st part of our projcet,
+    we are aiming to reduce the dimensionality of our gene-expression dataset which has been extracted
+    from http://www.linkedomics.org/. The RNA-Seq data has 528 samples and 4571 features. For dimensionality reduction we will be using standard,
+    denoisng and variational Autoencoder, which are a special type of neural network. After the feature reduction, we will use reduced feature in our clinical dataset
+    and evaluate the effectiveness of predictions.
+  categories: [Python, Dimentionality Reduction, Survival Analysis]
+  date: 2020-04-01
+
+- title: Visualizing Global CO2 Emissions
+  path: https://example.com/co2-visualization
+  # Photo by Anne Nygård on Unsplash https://unsplash.com/photos/white-clouds-in-blue-sky-vc-vPgGqAr4
+  image: images/anne-nygard-vc-vPgGqAr4-unsplash.jpg
+  description: >
+    This project involves creating visualizations to show trends in global CO2 emissions
+    over time. It includes data extraction from public databases, data cleaning, and using
+    visualization libraries to create interactive charts and graphs.
+  categories: [R, Data Visualization, Environmental Science]
+  date: 2024-07-01
