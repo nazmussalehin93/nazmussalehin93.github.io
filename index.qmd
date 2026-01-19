@@ -9,10 +9,10 @@ about: # https://quarto.org/docs/websites/website-about.html
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/nazmussalehin93
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/nazmus-salehin01/
 ---
 
 I am an aspiring data scientist passionate about leveraging data, statistics, and machine learning to generate meaningful insights and solve complex societal problems. I aim to build predictive models and analytical tools that improve decision-making in social science and healthcare, and to develop methodologies that help detect and mitigate disinformation, bias, and harmful narratives in online news and social media ecosystems.
