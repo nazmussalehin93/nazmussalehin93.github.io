@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nazmus Salehin",
+    "section": "",
+    "text": "I am an aspiring data scientist passionate about leveraging data, statistics, and machine learning to generate meaningful insights and solve complex societal problems. I aim to build predictive models and analytical tools that improve decision-making in social science and healthcare, and to develop methodologies that help detect and mitigate disinformation, bias, and harmful narratives in online news and social media ecosystems.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nazmus Salehin",
+    "section": "Education",
+    "text": "Education\nMS in Mathematical Science, University of North Florida | Jacksonville, Florida | Aug 2019-June 2021\nBS in Electrical and Electronic Engineering, Khulna University of Engineering and Technology | Khulna, Bangladesh | Feb 2012-June 2017",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Nazmus Salehin",
+    "section": "Experience",
+    "text": "Experience\nFred Hutch Cancer Center | Statistical Programmer 2 | Aug 2023 - present\nDuke University | Statistician 2 | Aug 2021 - July 2023",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Project\n      \n      \n        Description\n      \n      \n        skills\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nProject\n\n\n\nDescription\n\n\n\nskills\n\n\n\n\n\n\n\n\nBuilding a tic tac toe AI with value iteration\n\n\nA Python implementation of Tic Tac Toe featuring an AI opponent powered by value iteration, a reinforcement learning algorithm. The computer learns to evaluate board states and make optimal moves based on state values \n\n\nPython, Reinforcement Learning, Bellman equation\n\n\n\n\n\n\nSurvival-Predicition-using-Autoencoder-and-AFT\n\n\nThe goal of this project is to predict survival times of patients using gene expression features and clinical features. We will see if the gene expression features has any significance in predicting overall survival. For the 1st part of our…\n\n\nPython, Dimentionality Reduction, Survival Analysis\n\n\n\n\n\n\nStreet Sign Classification using CNN\n\n\nCapstone project of Coursera Getting Started with Tensorflow 2 Objective: Goal was to classfy street sign images captured from satellite. Size of the data: Train data has 73257 images and test data has Preprocessing of the data: The dataset is in…\n\n\nPython, CNN\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        authors\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Conference/Journal\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nauthors\n\n\n\nDate\n\n\n\nConference/Journal\n\n\n\n\n\n\n\n\nA Recommender System for Music Less Singing Voice Signals\n\n\nSalehin, G.M. Nazmus, Shahjahan, Md.\n\n\nDec 22, 2019\n\n\nIEEE\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Selected publications"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "An overview of Recommender Systems\n\n\n\n\n\n\nNazmus Salehin\n\n\nJan 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplication of Linear Algebra in data analysis\n\n\nPost description for first post\n\n\n\nNazmus Salehin\n\n\nJan 19, 2026\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blogs"
+    ]
+  }
+]
