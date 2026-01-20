@@ -23,13 +23,19 @@
   categories: [Python, Dimentionality Reduction, Survival Analysis]
   date: 2020-04-01
 
-- title: Visualizing Global CO2 Emissions
-  path: https://example.com/co2-visualization
-  # Photo by Anne Nygård on Unsplash https://unsplash.com/photos/white-clouds-in-blue-sky-vc-vPgGqAr4
-  image: images/anne-nygard-vc-vPgGqAr4-unsplash.jpg
+- title: Street Sign Classification using CNN
+  path: https://github.com/nazmussalehin93/Street-Number-classification-with-CNN
+  image:
   description: >
-    This project involves creating visualizations to show trends in global CO2 emissions
-    over time. It includes data extraction from public databases, data cleaning, and using
-    visualization libraries to create interactive charts and graphs.
-  categories: [R, Data Visualization, Environmental Science]
-  date: 2024-07-01
+    Capstone project of Coursera Getting Started with Tensorflow 2 Objective: Goal was to classfy street sign
+    images captured from satellite. Size of the data: Train data has 73257 images and test data has
+    Preprocessing of the data: The dataset is in .mat format. I converted the rgb image to grayscale image.
+    Then normalized the image. Using Neural Network for classification: For Neural Network I used 2 hidden layers,
+    1 input and output layer. 32 by 32 image are converted to 512 and 256 dimensional layers and finally 11 dimensional
+    output layer (For digit 0 to 10).
+
+For CNN I used Conv2D, Dropout, Batch Normalization layer etc. I was able to achieve 89% accuracy with only 10 epochs, a much higher accuracy than ann (74%). Only drawback is CNN took a higher training time.
+  categories: [Python, CNN]
+  date:
+
+
